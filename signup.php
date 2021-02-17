@@ -3,14 +3,15 @@ require "includes/header.php"
 ?>
 
 <main>
+<embed src="sounds/shanty.mp3" loop="true" autostart="true" width="2" height="0">
+
     <link rel="stylesheet" href="../css/signup.css">
     <div class="bg-cover">
         <div class="h-100 container center-me">
             <div class="my-auto">
                 <div class="signup-form">
 
-                    <form action="includes/signup-helper.php" method="post">
-                        
+                    <form action="includes/signup-helper.php" method="post">  
                         <h1 class="h3 mb-3 fw-normal">Sign Up</h1>
                         <p class="hint-text">Create your account!</p>
                         <div class="form-group">

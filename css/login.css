@@ -1,0 +1,43 @@
+.bg-cover {
+    background-image: url("../images/fire.gif");
+    height: 100vh;
+    background-position: center;
+    background-size:contain;
+    background-attachment: fixed;
+    background-repeat: repeat; 
+}
+
+.center-me {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.left-content {
+    display:flex;
+    justify-content: left;
+    padding: 50px;
+}
+
+.left-content {
+    display:flex;
+    justify-content: right;
+    padding: 50px;
+}
+
+.form-signin{
+    background-color: rgb(0, 247, 255);
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+img{
+    max-width: 500px;
+    margin: auto;
+    max-height: 200px;
+}
