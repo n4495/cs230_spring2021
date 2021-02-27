@@ -1,0 +1,19 @@
+.center-me{
+    display:flex;
+    justify-content: center;
+    padding: 30px;
+    text-align: "center";
+}
+
+#prof-display{
+    display: block;
+    width: 100px;
+    margin: 10px auto;
+    border-radius: 50%;
+}
+
+#uname-style{
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}

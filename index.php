@@ -1,3 +1,6 @@
+<?php
+require 'includes/header.php';
+?>
 <main>
 	<link rel="stylesheet" href="css/about.css">
 	<embed src="sounds/shanty.mp3" loop="true" autostart="true" width="2" height="0">
@@ -5,7 +8,7 @@
 	<div class="about">
 		<h1>About Us!<h1>
 				<p>Stick Emporium is a world class purveyor of sticks. Please contact us
-					for all your stick needs.
+					for all your stick needs!
 				<p>
 	</div>
 

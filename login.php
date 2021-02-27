@@ -49,6 +49,7 @@ require 'includes/header.php';
                     <button class="w-100 btn btn-lg btn-primary" name="login-submit" type="submit">Sign in</button>
                     <p class="mt-5 mb-3 text-muted">&copy; 2020-∞</p>
                 </form>
+                <a class="nav-link" href="signup.php">Sign up</a>
 
             </div>
         </div>
